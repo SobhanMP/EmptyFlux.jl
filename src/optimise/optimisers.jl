@@ -1,4 +1,4 @@
-using Flux
+using EmptyFlux
 using MacroTools: @forward
 
 abstract type AbstractOptimiser end
