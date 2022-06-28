@@ -1,1 +1,1 @@
-Flux.jl but everything that's not optimised removed. 
+Flux.jl but everything that's not Optimise removed. 
